@@ -1,4 +1,5 @@
 # 🔊 Acoustic Vision Device (AVD)
+Experimental acoustic perception system using chirp echoes and DSP to infer spatial structure without cameras or LiDAR.
 
 The **Acoustic Vision Device (AVD)** is an experimental sensing system that attempts to understand the surrounding environment using **sound echoes instead of cameras or LiDAR**.
 
