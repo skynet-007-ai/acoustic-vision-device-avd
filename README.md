@@ -208,6 +208,20 @@ They will be uploaded separately and linked here in the future.
 
 ---
 
+## ⚠️ Current Limitations
+
+As this is an early experimental prototype, the current system has several limitations:
+
+• Works best in small indoor environments  
+• Sensitive to background noise  
+• Limited directional awareness with a single microphone  
+• Cannot yet distinguish between object types  
+• Spatial interpretation is approximate rather than precise
+
+These limitations are expected in early acoustic sensing prototypes and will be addressed in future iterations.
+
+---
+
 # 🔮 Future Development
 
 This project is intended to evolve into a **larger research-style project exploring acoustic perception systems**.
