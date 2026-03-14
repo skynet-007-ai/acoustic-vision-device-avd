@@ -184,6 +184,35 @@ demo
 
 ---
 
+# 🔄 Development Evolution
+
+The Acoustic Vision Device evolved through several development iterations during experimentation and testing.
+
+### V1 – Prototype Architecture
+The initial hackathon prototype used multiple scripts for chirp emission, audio capture, and DSP analysis.  
+This version demonstrated the core feasibility of using acoustic echoes to infer nearby structures.
+
+### V2 – Simplified MVP
+A simplified implementation was created using a single main script to streamline testing and experimentation on laptops and Raspberry Pi hardware.
+
+Location in repository:
+
+versions/v2_single_script_mvp
+
+### V3 – Sensor–Brain Architecture
+The system was later refactored into a modular architecture separating the sensing and processing components.
+
+• **avd_sensor.py** – Handles chirp emission and microphone recording  
+• **avd_brain.py** – Processes recorded audio using DSP techniques and estimates distances
+
+This architecture reflects robotics perception pipelines where sensing hardware and processing systems operate independently.
+
+Location in repository:
+
+versions/v3_sensor_brain_architecture
+
+---
+
 # 🚀 Running the MVP
 
 Run the main acoustic scanning pipeline:
