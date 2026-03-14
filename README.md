@@ -44,6 +44,19 @@ This project explores how far such a system can be developed using **low-cost ha
 
 ---
 
+## 🔬 Research Inspiration
+
+The idea behind AVD is inspired by natural and engineered acoustic sensing systems such as:
+
+• Echolocation used by bats and dolphins  
+• SONAR systems used in submarines  
+• Radar-style signal analysis techniques  
+• Acoustic localization used in robotics research
+
+AVD explores whether similar principles can be applied to low-cost hardware using Python-based signal processing.
+
+---
+
 # ⚙️ Current MVP Capability
 
 The current prototype is an **experimental room-scale acoustic scanner**.
@@ -65,6 +78,30 @@ At the moment, the prototype works best in:
 * relatively quiet spaces
 
 The output includes estimated distances to detected reflections and a simple summary of the detected environment.
+
+---
+
+## 🧠 System Pipeline
+
+The Acoustic Vision Device follows a simple acoustic sensing pipeline:
+
+Chirp Generation  
+→ Speaker emits a controlled acoustic chirp
+
+Echo Capture  
+→ Microphone records returning sound reflections
+
+Signal Processing  
+→ Bandpass filtering and noise reduction
+
+Echo Analysis  
+→ Peak detection identifies reflection points
+
+Distance Estimation  
+→ Time delay converted to approximate distance
+
+Environment Interpretation  
+→ Reflections used to infer nearby structures
 
 ---
 
