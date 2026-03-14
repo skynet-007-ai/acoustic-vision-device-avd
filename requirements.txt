@@ -1,0 +1,6 @@
+numpy
+scipy
+sounddevice
+soundfile
+colorama
+scikit-learn

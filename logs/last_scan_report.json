@@ -1,0 +1,39 @@
+{
+  "input_file": "D:\\My Projects\\Acoustic Vision Device (AVD) Project\\1. First Model (Currently limited to the laptop and not fully ready)\\capture\\echo.wav",
+  "samples": 26459,
+  "samplerate": 44100,
+  "chirp_start_s": 0.228095,
+  "estimated_band": [
+    976,
+    21127
+  ],
+  "num_echo_peaks": 7,
+  "peak_times_s": [
+    0.30746,
+    0.345193,
+    0.40034,
+    0.438073,
+    0.49322,
+    0.530952,
+    0.5861
+  ],
+  "peak_heights": [
+    0.42265,
+    0.438536,
+    0.422693,
+    0.439187,
+    0.42269,
+    0.439187,
+    0.422657
+  ],
+  "estimated_distances_m": [
+    13.611,
+    20.082,
+    29.54,
+    36.011,
+    45.469,
+    51.94,
+    61.398
+  ],
+  "notes": "AVD Analyzer v3.0 (robust corr + envelope fallback + adaptive band)"
+}

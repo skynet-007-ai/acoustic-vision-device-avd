@@ -1,0 +1,28 @@
+🏠 Acoustic Room Scan — Summary Report
+Run ID : 2026-03-06_20:39:26    Device pos: center, mid-height
+Status :  ✅ Scan completed    Confidence: HIGH (0.61)
+
+1) Room dimensions (estimated)
+   - Length (approx): 456.49 m
+   - Width  (approx): 456.5 m
+
+2) Wall distances (from device)
+   • North: 60.99 m (± 32.02 m)  count=14
+   • East: 172.5 m (± 32.02 m)  count=14
+   • South: 284.0 m (± 32.02 m)  count=14
+   • West: 395.5 m (± 32.02 m)  count=14
+
+3) Major objects detected
+   None confidently detected
+
+4) Overhead / Loft
+   • None detected (heuristic)
+
+5) Occupancy & motion
+   Motion detected : NO
+
+6) Sector map (quick view):
+   North : Open / entry
+   East : Open / entry
+   South : Open / entry
+   West : Open / entry

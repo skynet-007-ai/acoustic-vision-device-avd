@@ -1,0 +1,8 @@
+AVD DEMO SUMMARY — 2026-03-06 20:39:31
+
+HALL: peaks=56  first distances (m): 9.971, 16.442, 25.9, 32.371, 41.829
+SHORT: peaks=7  first distances (m): 13.611, 20.082, 29.54, 36.011, 45.469
+
+Files:
+- Last analyzer JSON (final): D:\My Projects\Acoustic Vision Device (AVD) Project\1. First Model (Currently limited to the laptop and not fully ready)\logs\last_scan_report.json
+- Demo markdown: D:\My Projects\Acoustic Vision Device (AVD) Project\1. First Model (Currently limited to the laptop and not fully ready)\logs\demo_report_20260306_203918.md
